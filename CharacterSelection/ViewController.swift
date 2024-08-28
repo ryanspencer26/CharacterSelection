@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var accessoryView: UIImageView!
     
+    var home = false
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
